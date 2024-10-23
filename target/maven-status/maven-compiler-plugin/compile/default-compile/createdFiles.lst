@@ -1,0 +1,5 @@
+com\vedavyasDemo\vedavyasProject\Service\StudentService.class
+com\vedavyasDemo\vedavyasProject\Model\Student.class
+com\vedavyasDemo\vedavyasProject\Repository\StudentRepository.class
+com\vedavyasDemo\vedavyasProject\controller\StudentController.class
+com\vedavyasDemo\vedavyasProject\VedavyasProjectApplication.class
